@@ -75,7 +75,7 @@ if __name__ == '__main__':
 
 	# Run Flask di Google Colab menggunakan ngrok
 	run_with_ngrok(app)
-    app.run()
+        app.run()
 	
 	
 
